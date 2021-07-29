@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">bday</string>
-    <string name="happy_birthday">Happy Birthday Ruban</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="generate_card">Generate Card</string>
+    <string name="example_alex">example: Alex</string>
+    <string name="display_Name">Ruban</string>
+    <string name="happy_birthday">Happy Birthday</string>
 </resources>
